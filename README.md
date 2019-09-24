@@ -1,5 +1,6 @@
 Tropospheric Halogen mechanism based on GEOS-Chem 11-02d 
-Update list:
+
+List of updates:
 1. Chlorine Chemistry in Wang et al. (2019)
 2. Browmine updates in Zhu et al. (2019)
 3. Entrainment-limited cloud uptake mechanism and cloud properties update in Holmes et al. (2019)
