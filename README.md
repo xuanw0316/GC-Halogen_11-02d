@@ -1,25 +1,13 @@
-README -- Describes contents of GEOS-Chem repository
+Tropospheric Halogen mechanism based on GEOS-Chem 11-02d 
+Update list:
+1. Chlorine Chemistry in Wang et al. (2019)
+2. Browmine updates in Zhu et al. (2019)
+3. Entrainment-limited cloud uptake mechanism and cloud properties update in Holmes et al. (2019)
+4. Reaction kinetics of HOBr+ Cl-/Br-  based on Roberts et al. (2014)
+5. New mechanism for chlorine/bromine uptake in ice cloud based on IUPAC
+6. Temperature dependence of BrNO3 hydrolysis based on Deiber et al.(2004)
+7. New cloud pH calculation: use Jonathan Mok's fix and consider coarse mode aerosols 
+8. Minor bug fixes
 
-01 Feb 2017
-GEOS-Chem Support Team
-geos-chem-support@as.harvard.edu
-
-
-This repository contains the source code for GEOS-Chem v11-01.
-
-Please see the following resources for more information:
-
-1. http://manual.geos-chem.org  (Contains download instructions)
-2. http://wiki.geos-chem.org/GEOS-Chem_v11-01
-3. http://wiki.geos-chem.org/GEOS-Chem_v11-01_benchmark_history
-4. http://wiki.geos-chem.org/HEMCO
-5. http://wiki.geos-chem.org/GEOS-Chem-Unit-Tester
-6. http://wiki.geos-chem.org/Creating_GEOS-Chem_run_directories
-=======
-# GEOS-Chem v11-01-Patches with halogens from Schmidt et al (2016) (JGR-Atmos) and Sherwen et al (2016) (ACP) #
-
-This repository was based on the test version of GEOS-Chem v11-01g, but has been merged into the v11-01-Patches code. It contains the iodine code developed by Tomas Sherwen et al, with extensions to extend into the stratosphere. 
-
--- Sebastian D. Eastham (seastham [at] fas.harvard.edu), 26 Sep 2016
--- Tomas Sherwen (tomas [dot] sherwen [at] york.ac.uk), 23 Feb 2017
+Contact: wangx@seas.harvard.edu
 
