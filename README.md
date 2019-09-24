@@ -1,8 +1,8 @@
 Tropospheric Halogen mechanism based on GEOS-Chem 11-02d 
 
 List of updates:
-1. Chlorine Chemistry in Wang et al. (2019)
-2. Browmine updates in Zhu et al. (2019)
+1. Chlorine chemistry in Wang et al. (2019)
+2. Bromine updates in Zhu et al. (2019)
 3. Entrainment-limited cloud uptake mechanism and cloud properties update in Holmes et al. (2019)
 4. Reaction kinetics of HOBr+ Cl-/Br-  based on Roberts et al. (2014)
 5. New mechanism for chlorine/bromine uptake in ice cloud based on IUPAC
